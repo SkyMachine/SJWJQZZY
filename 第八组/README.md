@@ -10,8 +10,7 @@
 ## 曾庆喜
 ## 石育星
 
-## 
-#起点聚类
+## #起点聚类
 setwd('F:\\作业\\数据挖掘\\中期作业及说明')
 dat <- read.csv('df3.csv',header = TRUE)
 dat <- dat[,5:6]
